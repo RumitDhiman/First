@@ -1,0 +1,143 @@
+*
+{
+    margin: 0 1%;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.head
+{
+    width: 98%;
+    height: 30px;
+    margin-top: 1px;
+    background-color: rgb(33, 33, 33);
+}
+
+.nav
+{
+    float: left;
+    padding: 6px 1px;
+    color: white;
+    background-color: rgb(44, 98, 44);
+}
+.nav2
+{
+    float: left;
+    padding: 6px 1px;
+    color: aliceblue;
+}
+.nav2:hover
+{
+    background-color: rgb(44, 98, 44);
+}
+.nav2:nth-child(4)
+{
+    float: right;
+}
+.nav2:nth-child(5)
+{
+    float: right;
+}
+.container
+{
+    width: 98%;
+    height: 280px;
+    text-align: justify;
+    padding: 12px;
+}
+.logo
+{
+    float: left;
+    margin: 30px 300px;
+}
+.container2
+{
+    width: 98%;
+}
+.container3
+{
+    width: 98%;
+}
+table
+{
+    border-collapse: collapse;
+    width: 98%;
+}
+td, th
+{
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+}
+.container4
+{
+    width: 98%;
+}
+.container4 input
+{
+    width: 98%;
+    height: 40px;
+    margin-top: 5px;
+    border: 1px solid rgb(222, 221, 221);
+    background-color: rgb(222, 221, 221);
+    padding-left: 10px;
+}
+
+.container5
+{
+    float: left;
+    background-color:rgb(222, 221, 221) ;
+    width: 98%;
+    height: 80px;
+    margin-top: 20px;
+    margin-bottom: 2px;
+    padding: 30px 310px;
+}
+.bg
+{
+    width: 100px;
+    background-color: yellow;
+}
+.bg1
+{
+    width: 190px;
+    background-color: yellow;
+}
+.bg2
+{
+    width: 280px;
+    background-color: yellow;
+}
+.pre
+{
+    width: 98%;
+}
+.previous
+{
+    width: 80px;
+    height: 29px;
+    background-color: rgb(201, 198, 198);
+    color: black;
+    padding:4px 0px;
+    float: left;
+    margin-right: 2px;
+    margin-top: 10px;
+}
+.next
+{
+    width: 80px;
+    height: 29px;
+    background-color: rgb(51, 150, 40);
+    color: black;
+    padding:4px 11px;
+    float: left;
+    margin-top: 10px;
+}
+.img-container
+{
+    margin-top: 35px;
+    margin-right: 122px;
+    text-align: center;
+}
